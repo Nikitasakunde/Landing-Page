@@ -1,0 +1,24 @@
+@media screen and (max-width:1000px){
+   
+    nav{
+        flex-direction: column;
+    }
+    .box b{
+        font-size:30px;
+        margin-left: 26px;
+        
+    }
+    .container2 img{
+        margin-top: -262px;
+        margin-left: -60px;
+    }
+    .container2 h1{
+        margin-top: 490px;
+        margin-right: 830px;
+    }
+    .container3{
+        margin-top: 108px;
+    }
+    
+
+}
